@@ -1,0 +1,5 @@
+outs:
+- md5: 199d7bda0a7b641e0e68ccee5236a3a7
+  size: 348519
+  hash: md5
+  path: races.csv
